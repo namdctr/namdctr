@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi mate, this is Nam 👋
+There nothing much here since this is newly created.
+🔭 Just started my journey on CyberSec recently.
+🌱 Currently having fun with Web Security.
+😄 Have a great day!
+
 
 <!--
 **namdctr/namdctr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
