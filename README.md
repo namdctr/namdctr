@@ -3,6 +3,7 @@
 🌱 Currently having fun with Web Security.  
 ⚡ Also, i backup codes from courses to this account  
 😄 Have a great day!  
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ucsbcfjn72udrfrwnohthvacfa)
 
 
 <!--
