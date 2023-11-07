@@ -1,8 +1,7 @@
 ### Hi mate, this is Nam 👋
-There nothing much here since this is newly created.
-🔭 Just started my journey on CyberSec recently.
-🌱 Currently having fun with Web Security.
-😄 Have a great day!
+🔭 I have just started my journey on CyberSec recently.  
+🌱 Currently having fun with Web Security.  
+😄 Have a great day!  
 
 
 <!--
