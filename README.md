@@ -1,7 +1,7 @@
 ### Hi mate, this is Nam 👋
 🔭 I have just started my journey on CyberSec recently.  
 🌱 Currently having fun with Web Security.  
-⚡ Also, i backup codes from courses to this account
+⚡ Also, i backup codes from courses to this account  
 😄 Have a great day!  
 
 
