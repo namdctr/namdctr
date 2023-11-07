@@ -1,7 +1,6 @@
 ### Hi mate, this is Nam 👋
 🔭 I have just started my journey on CyberSec recently.  
 🌱 Currently having fun with Web Security.  
-⚡ Also, i backup codes from courses to this account  
 😄 Spotify & Chill (with me)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ucsbcfjn72udrfrwnohthvacfa)
